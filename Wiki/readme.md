@@ -1,6 +1,6 @@
 
 # Setup Guides
-* [Installation Guide](https://github.com/dularion/streama/wiki/Getting-started)  
+* [Installation Guide](https://github.com/WendellTech/streama/tree/master/Wiki/Getting-started.md)  
 * [Installation Guide (Windows)](https://github.com/dularion/streama/wiki/Getting-Started-(Windows))  
 * [Installation Guide (Deutsch/German)(Maker-Tutorials.com)](https://maker-tutorials.com/eigene-streaming-seite-wie-netflix-mit-streama-und-einem-raspberry-pi-3/)  
 * [Full streama setup on a clean Ubuntu18 with mysql, system.d & letsencrypt](https://github.com/WendellTech/streama/wiki/Full-streama-setup-on-a-clean-Ubuntu18-with-mysql,-system.d-&-letsencrypt)
